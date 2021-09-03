@@ -5,7 +5,7 @@
 // Author		: Lee Ye Hyeong					  //
 // Student ID		: 2017202050					  //
 // ---------------------------------------------------------------------- //
-// Title : system Programming Assignment #3-2 (proxy server)		  //
+// Title : system Programming - proxy server				  //
 // Description : When web browser's request are operated, only one client //
 //		can send request by using semaphore. 			  //
 //  		 And server gets HTTP request and make response to child  //
